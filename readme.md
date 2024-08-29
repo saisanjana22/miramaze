@@ -8,6 +8,8 @@ The rules of the game are simple. Get to the red block and avoid the green block
 Have fun!
 
 - Your dear programmer, Sai Meesala
+
+<br>
 Thank you Aiden Tran for creating all the wonderful mazes, and thank you Stefan for your teamwork.
 
 </p>
